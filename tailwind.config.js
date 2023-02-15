@@ -2,7 +2,14 @@
 module.exports = {
   content: ["./src/**/*.{tsx, ts, js, jsx}"],
   theme: {
-    extend: {},
+    extend: {
+      fontFamily: {
+        'ubuntu': ['Ubuntu', 'sans-serif']
+      },
+      colors: {
+        'def1': '#2A0A74'
+      }
+    },
   },
   plugins: [],
 }
