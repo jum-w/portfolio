@@ -7,7 +7,8 @@ module.exports = {
         'ubuntu': ['Ubuntu', 'sans-serif']
       },
       colors: {
-        'def1': '#2A0A74'
+        'def1': '#2A0A74',
+        'def2': '#380C45'
       }
     },
   },

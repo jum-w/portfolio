@@ -1,6 +1,6 @@
-export default function Projects() {
+export default function Contact() {
     return (
-        <section className="bg-no-repeat min-h-screen bg-cover bg-gray-900" id="projects">
+        <section className="min-h-screen bg-black" id="contact">
             <main>
                 <div className="">
                     Hello
