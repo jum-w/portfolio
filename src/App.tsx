@@ -6,11 +6,11 @@ import Navbar from "./components/Navbar";
 
 function App() {
   return (
-    <div className="font-ubuntu">
+    <div className="font-ubuntu text-gray-100 bg-slate-900">
       <Navbar />
       <Main />
-      <Projects />
       <Skills />
+      <Projects />
       <Contact />
     </div>
   );
