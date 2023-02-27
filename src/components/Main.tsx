@@ -30,8 +30,8 @@ export default function Main() {
                             {iconButton(faFilePdf, "", "https://drive.google.com/file/d/12m7H46DnWsM7x9JUABvs0ht-9LViiw7y/view?usp=sharing")}
                         </div>
                     </div>
-                    <div className="text-3xl w-64 lg:w-96">
-                        <h1 className="my-4">projects</h1>
+                    <div className="sm:text-3xl text-xl w-64 lg:w-96">
+                        <h1 className="sm:mt-0 mt-16 mb-4">projects</h1>
                         <div className="text-lg font-normal p-2 border-l border-yellow-400">
                             {projectValues.map(([key, projects]) =>
                                 projects.map((project) =>

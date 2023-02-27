@@ -16,7 +16,7 @@ export const projectData: Record<string, projectData[]> = {
             github: 'https://github.com/jum-w/RLPicks'
         }
     ],
-    RocketPicks2: [
+    HoursCalculator: [
         {
             id: 2,
             title: "Hours Calculator",
@@ -24,5 +24,6 @@ export const projectData: Record<string, projectData[]> = {
             demo: '',
             github: 'https://github.com/jum-w/jum.lol'
         }
-    ]
+    ],
+
 }
