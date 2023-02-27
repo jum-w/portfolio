@@ -8,7 +8,7 @@ import Project from './Project'
 export default function Main() {
     const iconButton = (icon: any, margin: string, link: string) => {
         return (
-            <a target="_blank" href={link} className={`text-yellow-400 text-base sm:text-2xl hover:text-yellow-300 duration-150 ${margin}`}><FontAwesomeIcon icon={icon} /></a>
+            <a target="_blank" href={link} className={`text-yellow-400 text-xl sm:text-2xl hover:text-yellow-300 duration-150 ${margin}`}><FontAwesomeIcon icon={icon} /></a>
         )
     }
 
