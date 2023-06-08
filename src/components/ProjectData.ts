@@ -25,5 +25,13 @@ export const projectData: Record<string, projectData[]> = {
             github: 'https://github.com/jum-w/jum.lol'
         }
     ],
-
+    MentalHealthWebApp: [
+        {
+            id: 3,
+            title: "Mental Health Web App",
+            link: '',
+            demo: 'https://youtu.be/KyHbuJxYY_Q',
+            github: ''
+        }
+    ],
 }
