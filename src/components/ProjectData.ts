@@ -28,7 +28,7 @@ export const projectData: Record<string, projectData[]> = {
     MentalHealthWebApp: [
         {
             id: 3,
-            title: "Mental Health Web App",
+            title: "Mental Health App",
             link: '',
             demo: 'https://youtu.be/KyHbuJxYY_Q',
             github: ''
