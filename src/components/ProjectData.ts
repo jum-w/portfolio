@@ -34,4 +34,13 @@ export const projectData: Record<string, projectData[]> = {
             github: ''
         }
     ],
+    CatShop: [
+        {
+            id: 4,
+            title: "Cat Shop",
+            link: 'https://cat-shop-iota.vercel.app',
+            demo: '',
+            github: 'https://github.com/jum-w/Cat-Shop'
+        }
+    ],
 }
