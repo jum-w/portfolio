@@ -11,23 +11,14 @@ export const projectData: Record<string, projectData[]> = {
         {
             id: 1,
             title: "Rocket Picks",
-            link: "https://www.rocketpicks.xyz",
+            https: "//rl-picks-jum-w.vercel.app",
             demo: 'https://youtu.be/DXYstso5gY0',
             github: 'https://github.com/jum-w/RLPicks'
         }
     ],
-    HoursCalculator: [
-        {
-            id: 2,
-            title: "Hours Calculator",
-            link: "https://jum.lol",
-            demo: '',
-            github: 'https://github.com/jum-w/jum.lol'
-        }
-    ],
     MentalHealthWebApp: [
         {
-            id: 3,
+            id: 2,
             title: "Mental Health App",
             link: '',
             demo: 'https://youtu.be/KyHbuJxYY_Q',
@@ -36,7 +27,7 @@ export const projectData: Record<string, projectData[]> = {
     ],
     CatShop: [
         {
-            id: 4,
+            id: 3,
             title: "Cat Shop",
             link: 'https://cat-shop-iota.vercel.app',
             demo: '',
