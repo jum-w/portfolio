@@ -11,7 +11,7 @@ export const projectData: Record<string, projectData[]> = {
         {
             id: 1,
             title: "Rocket Picks",
-            https: "//rl-picks-jum-w.vercel.app",
+            link: "https://rl-picks-jum-w.vercel.app",
             demo: 'https://youtu.be/DXYstso5gY0',
             github: 'https://github.com/jum-w/RLPicks'
         }
